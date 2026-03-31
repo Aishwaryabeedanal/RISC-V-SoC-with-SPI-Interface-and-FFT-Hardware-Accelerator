@@ -7,7 +7,7 @@ The work has contributed to research outputs as follows:
 
 - 📄 **High-Performance RISC-V FFT Accelerator for Edge-AI Workloads**  
   Accepted as a **full paper** at **RISCV-HPC 2025**.  
-  🔗 [View Paper](PASTE_YOUR_LINK_HERE)
+  
 
 - 📄 **Physical Design of RISC-V SoC with SPI and FFT Accelerator**  
   Research work based on RTL-to-GDSII physical design flow has been **submitted and is currently under review**.
