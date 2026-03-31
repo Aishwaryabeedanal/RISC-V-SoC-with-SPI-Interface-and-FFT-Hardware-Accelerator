@@ -18,7 +18,6 @@ The following supporting materials are included / will be uploaded:
 
 - 📄 Project Report  
 - 📄 Research Paper (Under Review)  
-- 📊 Simulation Results (Waveforms)  
 - 📊 VDAT CircuitPreneur Pitch Deck  
 - 🖼️ Architecture and Design Diagrams  
 
